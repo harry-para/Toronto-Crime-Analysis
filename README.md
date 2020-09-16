@@ -7,7 +7,7 @@ This analysis was able to combine crime record data and Toronto neighbourhood lo
 This analysis uses the pandas and numpy python libraries to showcase advanced skills in data cleaning and manipulation.
 Data visualizations were also created to visualize the data as well as show the cluster analysis in the form of a map visualization.
 
-This analysis used google sheets to store the location and crime datasets, and pandas dataframes online that were later used to produce data visualizations on Tableau. 
+This analysis used Google Sheets to store the Toronto neighbourhood location, Toronto crime datasets, and pandas dataframes online that were later used to produce data visualizations on Tableau. 
 The link to the Tableau workbook is: https://public.tableau.com/profile/harry.parameswaran#!/vizhome/TorontoCrimeAnalysis/TorontoNeighbourhoodCrimeAnalysis
 
 The python script and output using Jupyter Notebooks via the Visual Studio Code editor is attached above as "TO_Crime_Analysis.ipynb".
