@@ -15,3 +15,7 @@ This analysis used Google Sheets to store the Toronto neighbourhood location, To
 The link to the Tableau workbook is: https://public.tableau.com/profile/harry.parameswaran#!/vizhome/TorontoCrimeAnalysis/TorontoNeighbourhoodCrimeAnalysis
 
 The Python script and output using Jupyter Notebooks via the Visual Studio Code editor is attached above as "TO_Crime_Analysis.ipynb".
+
+Python libraries used include: oauth2client, df2gspread, numpy, pandas, folium, geopy, tkiner, scikit-learn, matplotlib and seaborn
+
+Python APIs used include: gspread
